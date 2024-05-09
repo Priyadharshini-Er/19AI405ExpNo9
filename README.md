@@ -1,6 +1,6 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name:Rama E.K. Lekshmi</h3>
-<h3>Register Number: 212222240082</h3>
+<h3>Name:Priyadharshini P</h3>
+<h3>Register Number: 212222100039</h3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
